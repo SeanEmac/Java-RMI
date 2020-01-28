@@ -1,0 +1,3 @@
+grant codeBase "file:/home/sean/Desktop/4thYear/Sem2/DistSystems/Assignment1" {
+    permission java.security.AllPermission;
+};
