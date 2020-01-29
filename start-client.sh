@@ -1,0 +1,1 @@
+java -cp /home/sean/Desktop/4thYear/Sem2/DistSystems/Assignment1 -Djava.rmi.server.codebase=file:/home/sean/Desktop/4thYear/Sem2/DistSystems/Assignment1 -Djava.rmi.server.hostname=localhost -Djava.security.policy=client.policy ct414/Client
